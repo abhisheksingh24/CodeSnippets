@@ -6,4 +6,4 @@ vector<int> createAux(string p){
             else aux[i++] = 0;
         }
         return aux;
-    }
+}
